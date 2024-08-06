@@ -14,7 +14,11 @@ Support & community Discord server: **https://discord.gg/8Ae6R2qJ86**
 It’s very simple! Just copy all the contents of `Gateway2KSP/GameData` into KSP’s `GameData` folder and you should be all set!
 
 > [!IMPORTANT]
-> In order to avoid any conflicts, we suggest temporarily backing up and **removing all other mods** you may have previously installed. Don’t make the fatal mistake of removing the “Squad” folder, though!
+> In order to avoid any conflicts, we suggest temporarily backing up and **removing all other mods** you may have previously installed. Don’t make the fatal mistake of removing the `Squad` folder, though!<br>
+
+
+> [!TIP]
+> If you'd like us to **add a mod** to the pack, feel free to use the **`/suggest`** command on our Discord server or ask in the appropriate channels!
 
 ## HOW TO JOIN THE SERVER
 
@@ -32,5 +36,3 @@ It’s very simple! Just copy all the contents of `Gateway2KSP/GameData` into KS
 ## OUR SOCIALS
 
 If you like this initiative, share the Gateway Discord server with your friends (https://discord.gg/8Ae6R2qJ86) and follow us on X (https://x.com/Gateway2Space)!
-> [!TIP]
-> If you'd like us to add a mod to the pack, feel free to use the /suggest command on our Discord server or ask in the appropriate channels!
