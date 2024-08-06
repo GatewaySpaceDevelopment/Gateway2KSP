@@ -4,7 +4,8 @@ This is the official mod pack for Gateway's Kerbal Space Program multiplayer ser
 Recommended KSP version: **`1.12.5`**<br>
 Current pack version: **`v0.5`**<br>
 Release date: **`August 6th, 2024`**<br>
-> Our mod pack is in constant evolution in order to fit the needs of our players and fix bugs. Please make sure this is the **most up to date version** before installing!<br>
+> [!TIP]
+Our mod pack is in constant evolution in order to fit the needs of our players and fix bugs. Please make sure this is the **most up to date version** before installing!<br>
 
 Support & community Discord server: **https://discord.gg/8Ae6R2qJ86**
 
@@ -12,6 +13,7 @@ Support & community Discord server: **https://discord.gg/8Ae6R2qJ86**
 
 It’s very simple! Just copy all the contents of `Gateway2KSP/GameData` into KSP’s `GameData` folder and you should be all set!
 
+> [!IMPORTANT]
 > In order to avoid any conflicts, we suggest temporarily backing up and **removing all other mods** you may have previously installed. Don’t make the fatal mistake of removing the “Squad” folder, though!
 
 ## HOW TO JOIN THE SERVER
