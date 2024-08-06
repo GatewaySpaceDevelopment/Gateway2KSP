@@ -5,7 +5,7 @@ Recommended KSP version: **`1.12.5`**<br>
 Current pack version: **`v0.5`**<br>
 Release date: **`August 6th, 2024`**<br>
 > [!TIP]
-Our mod pack is in constant evolution in order to fit the needs of our players and fix bugs. Please make sure you're using the **most up to date version** before playing!<br>
+> Our mod pack is in constant evolution in order to fit the needs of our players and fix bugs. Please make sure you're using the **most up to date version** before playing!<br>
 
 Support & community Discord server: **https://discord.gg/8Ae6R2qJ86**
 
@@ -32,3 +32,5 @@ It’s very simple! Just copy all the contents of `Gateway2KSP/GameData` into KS
 ## OUR SOCIALS
 
 If you like this initiative, share the Gateway Discord server with your friends (https://discord.gg/8Ae6R2qJ86) and follow us on X (https://x.com/Gateway2Space)!
+> [!TIP]
+> If you'd like us to add a mod to the pack, feel free to use the /suggest command on our Discord server or ask in the appropriate channels!
