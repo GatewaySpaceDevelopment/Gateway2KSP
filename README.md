@@ -2,8 +2,8 @@
 This is the official mod pack for Gateway's Kerbal Space Program multiplayer server!
 
 Recommended KSP version: **`1.12.5`**<br>
-Current pack version: **`v0.5`**<br>
-Release date: **`August 6th, 2024`**<br>
+Current pack version: **`v1.0`**<br>
+Release date: **`August 11th, 2024`**<br>
 > [!TIP]
 > Our mod pack is in constant evolution in order to fit the needs of our players and fix bugs. Please make sure you're using the **most up to date version** before playing!<br>
 
